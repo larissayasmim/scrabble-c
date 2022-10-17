@@ -18,7 +18,7 @@
 <br>
 
 ## :gem: &nbsp;&nbsp; Features
-- Determines which of the words submitted by players is worth mor
+- Determines which of the words submitted by players is worth more
 - Print winner or tie
 <br>
 
@@ -34,7 +34,7 @@
 This project was developed with the following technologies:
 
 - C
--  GitHub Codespace
+- GitHub Codespace
 
 <br>
 
