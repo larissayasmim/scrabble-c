@@ -23,11 +23,11 @@
 <br>
 
 ## :crossed_swords: &nbsp; Printing winner
-<img height="auto" width="400" alt="Imprimindo o vencedor" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1666047007/scrabblec/scrabblec_qzgjrf.png"/>
+<img height="auto" width="300" alt="Imprimindo o vencedor" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1666047007/scrabblec/scrabblec_qzgjrf.png"/>
 <br>
 
 ## :crossed_swords: &nbsp; Execution
-<img  height="auto" width="100" alt="https://res.cloudinary.com/dxijjbby3/image/upload/v1666050015/scrabblec/scrabblec_online-video-cutter.com_1_rbzcwe.gif"/>
+<img  height="auto" width="300" alt="executando o jogo" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1666050015/scrabblec/scrabblec_online-video-cutter.com_1_rbzcwe.gif"/>
 <br>
 
 ## :computer:  &nbsp; Technologies
